@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126874447473",
+    "firebase_url": "https://flutter-vista.firebaseio.com",
+    "project_id": "flutter-vista",
+    "storage_bucket": "flutter-vista.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126874447473:android:4f70720713bc90f090b5d0",
+        "android_client_info": {
+          "package_name": "com.firejuun.flutter_vista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126874447473-thm2rvv3vva6goo9jd6racdt9i29uqug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firejuun.flutter_vista",
+            "certificate_hash": "706fee551d06f90f67673719354a56cbf78296b3"
+          }
+        },
+        {
+          "client_id": "126874447473-10j861k3rvh1ooa04mhohbvcot7b5p38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9DeMfq7yup1rt79gh7jm1ifZQGM8lkjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126874447473-10j861k3rvh1ooa04mhohbvcot7b5p38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
