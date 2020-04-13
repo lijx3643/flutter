@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Title'),
+        title: Text('Update'),
       ),
       body: (_test != null)
           ? Center(
