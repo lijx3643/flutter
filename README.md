@@ -1,4 +1,4 @@
-# flutter_vista
+# sparkline
 
 A new Flutter project.
 

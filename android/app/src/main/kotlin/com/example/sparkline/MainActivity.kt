@@ -1,4 +1,4 @@
-package com.example.flutter_vista
+package com.example.sparkline
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
