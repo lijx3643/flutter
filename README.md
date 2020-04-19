@@ -1,18 +1,6 @@
-# Sparkline_demo
+##Title
+The next generation of electronic medical records system
 
-A new Flutter project.
+##Abstract
 
-Flutter Sparkline demo.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The usage of electronic medical records (EMR) has increased significantly in the last half decade. But there is widespread dissatisfaction with the tools and technologies that are currently available in the market place. To solves current concerns and addresses the needs of both patients and researchers, this project proposes an architecture for the next generation of EMR system based on VISTA and MIMIC-III database. The system is implemented by developing an application with Flutter and Firebase, which are responsible for the frontend and the backend respectively.
